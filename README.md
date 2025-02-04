@@ -147,9 +147,9 @@ This project is licensed under the MIT License.
 
 ## 🌟Acknowledgments
 
-- [Vite](https://vitejs.dev/): A fast build tool and development server that provides Hot Module Replacement (HMR) for a seamless development experience.
-- [React](https://reactjs.org/): A popular JavaScript library for building user interfaces, particularly single-page applications, using a component-based architecture.
-- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework that allows for rapid UI development with predefined classes for layout, spacing, and design.
-- [Firebase](https://firebase.google.com/): A platform developed by Google for creating mobile and web applications, offering services like authentication, real-time databases, and cloud storage.
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Firebase](https://firebase.google.com/)
 
 [🔝 Back to top](#mini-e-commerce-application)
