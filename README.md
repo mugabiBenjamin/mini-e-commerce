@@ -116,9 +116,9 @@ ESLint is pre-configured with the following plugins:
 - `eslint-plugin-react-refresh`
 
 Run the linter:
-    ```bash
-    yarn lint
-    ```
+```bash
+yarn lint
+```
 
 ## 🤝Contributing
 
