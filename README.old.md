@@ -32,6 +32,10 @@ yarn add firebase
 # Install all dependecies (optional)
 yarn install
 
+yarn lint       # For code linting
+yarn format     # For code formatting
+
+
 # Start the development server
 yarn dev
 
