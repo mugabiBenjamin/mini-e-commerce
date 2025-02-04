@@ -29,9 +29,13 @@ export default defineConfig({
 # Install firebase
 yarn add firebase
 
-# Install all dependecies
+# Install all dependecies (optional)
 yarn install
 
 # Start the development server
 yarn dev
+
+git add.
+git commit -m ""
+git push -u origin main
 ```
