@@ -31,6 +31,7 @@ A minimal **React + Vite** project with **Tailwind CSS** and **Firebase** integr
 .
 └── mini-e-commerce/
     ├── README.md
+    ├── README.old.md
     ├── eslint.config.js
     ├── index.html
     ├── package.json
@@ -146,9 +147,9 @@ This project is licensed under the MIT License.
 
 ## 🌟Acknowledgments
 
-- [Vite](https://vitejs.dev/)
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Firebase](https://firebase.google.com/)
+- [Vite](https://vitejs.dev/): A fast build tool and development server that provides Hot Module Replacement (HMR) for a seamless development experience.
+- [React](https://reactjs.org/): A popular JavaScript library for building user interfaces, particularly single-page applications, using a component-based architecture.
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework that allows for rapid UI development with predefined classes for layout, spacing, and design.
+- [Firebase](https://firebase.google.com/): A platform developed by Google for creating mobile and web applications, offering services like authentication, real-time databases, and cloud storage.
 
 [🔝 Back to top](#mini-e-commerce-application)
