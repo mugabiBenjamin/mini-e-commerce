@@ -14,8 +14,7 @@ A minimal **React + Vite** project with **Tailwind CSS** and **Firebase** integr
 6. [ESLint Configuration](#️eslint-configuration)
 7. [Contributing](#contributing)
 8. [Creating Issues](#creating-issues)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
+9. [Acknowledgments](#acknowledgments)
 
 ## 🚀Features
 
