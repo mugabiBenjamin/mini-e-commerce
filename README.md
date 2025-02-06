@@ -26,22 +26,21 @@ A minimal **React + Vite** project with **Tailwind CSS** and **Firebase** integr
 
 ## 📦Project Structure
 
-```
-.
-└── mini-e-commerce/
-    ├── README.md
-    ├── README.old.md
-    ├── eslint.config.js
-    ├── index.html
-    ├── package.json
-    ├── vite.config.js
-    └── src/
-        ├── App.jsx
-        ├── main.jsx
-        ├── services/
-        │   └── firebase.js
-        └── styles/
-            └── index.css
+```  
+└── mini-e-commerce/  
+    ├── README.md              # Project documentation and instructions  
+    ├── README.old.md          # Previous version of the README for reference  
+    ├── eslint.config.js       # Configuration file for ESLint (JavaScript linter)  
+    ├── index.html             # Main HTML file for the application  
+    ├── package.json           # Project metadata and dependencies  
+    ├── vite.config.js         # Configuration file for Vite (build tool)  
+    └── src/                   # Source files for the application  
+        ├── App.jsx            # Main React component for the application  
+        ├── main.jsx           # Entry point for the React application  
+        ├── services/          # Directory for service-related files  
+        │   └── firebase.js    # Firebase configuration and service functions  
+        └── styles/            # Directory for styling files  
+            └── index.css      # Main CSS file for application styles
 ```
 
 ## 🛠️Getting Started
