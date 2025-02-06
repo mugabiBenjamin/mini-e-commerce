@@ -141,10 +141,6 @@ yarn lint
 
 If you encounter any bugs or have feature requests, please create an issue on the [GitHub Issues](https://github.com/mugabiBenjamin/mini-e-commerce/issues) page.
 
-## 📄License
-
-This project is licensed under the MIT License.
-
 ## 🌟Acknowledgments
 
 - [Vite](https://vitejs.dev/)
