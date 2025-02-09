@@ -54,14 +54,21 @@ A minimal **React + Vite** project with **Tailwind CSS** and **Firebase** integr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mugabiBenjamin/mini-e-commerce.git
+    git clone https://github.com/cvsam/CANVIE-E-COMM.git
     cd mini-e-commerce
+    ```
 
-    # Install dependencies
+2. Install Yarn globally if you haven't already:
+    ```bash
+    npm install -g yarn
+    ```
+
+3. Install project dependencies:
+    ```bash
     yarn install
     ```
 
-2. Start the development server:
+4. Start the development server:
     ```bash
     yarn dev
     ```
